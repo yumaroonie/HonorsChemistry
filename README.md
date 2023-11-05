@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Embark on a delightful journey of connection with **Honors Chemistry**, the novel dating app that's sparking joy across the Harvard-Westlake campus. Merging the thrill of meeting someone new with the familiar corridors of academia, this app is tailored for the clever, curious, and perhaps a tad quirky students of our esteemed high school. Designed to foster meaningful connections based on mutual scholastic interests and intellectual wavelengths, Honors Chemistry is the go-to app for students seeking a companion in both the lab and life.
+Embark on a delightful journey of connection with **Honors Chemistry**, the novel dating app that will spark joy across the Harvard-Westlake campus. Merging the thrill of meeting someone new with the familiar corridors of academia, this app is tailored for the clever, curious, and perhaps a tad quirky students of our esteemed high school. Designed to foster meaningful connections based on mutual scholastic interests and intellectual wavelengths, Honors Chemistry is the go-to app for students seeking a companion in both the lab and life.
 
 ## Value/Use
 
@@ -10,11 +10,11 @@ Honors Chemistry is more than just a dating app; it's a celebration of intellect
 
 ## User Interaction and Experience
 
-Upon creating a bespoke profile featuring their academic strengths, extracurricular passions, and a snippet of their personal quirks, students will step into a world where swipes are driven by brainwaves. With witty prompts and thought-provoking bios, users are encouraged to engage in playful banter and cerebral courtship. Matches are made through an intricate blend of course overlaps, mutual interests, and a sprinkle of algorithmic magic, ensuring every "Lab Match" is as promising as it is exciting. Messaging comes alive with prompts for discussion, trivia nights, and even shared homework challenges, making the experience about finding common ground in both intellect and interests.
+Upon creating a bespoke profile featuring their academic strengths, extracurricular passions, and a snippet of their personal quirks, students will step into a world where swipes are driven by brainwaves. With witty prompts and thought-provoking bios, users are encouraged to engage in playful banter and cerebral courtship. Matches are made through an intricate blend of course overlaps, mutual interests, and a sprinkle of algorithmic magic, ensuring every "Lab Match" is as promising as it is exciting. Messaging comes alive with prompts for discussion, trivia nights, and even shared homework challenges, making the experience about finding common ground in both intellect and interests. Users can swipe left or right on their suggested matches to indicate their interest, and both users will be notified if two people swipe right on each other (a match!).
 
 ## Competitive Element
 
-In the lighthearted realm of Honors Chemistry, the competitive spirit takes on a fun and friendly form. Instead of leaderboards and scorecards, the competition is all about charisma and intellectual spark. Students may engage in a playful race to win over a sought-after classmate who is not just the most attractive but also the sharpest tool in the shed. The real challenge lies in finding that special someone who can match wits and charm in equal measure. It's less about competition and more about the quest for a partner who can both challenge and cherish you.
+In the lighthearted realm of Honors Chemistry, competitive (and joyful) pursuit of excellence takes on a fun and friendly form. Instead of leaderboards and report cards, the competition is all about charisma and intellectual spark. Students may engage in a playful race to win over a sought-after classmate who is not just the most attractive but also the sharpest tool in the shed. The real challenge lies in finding that special someone who can match wits and charm in equal measure. It's less about competition and more about the quest for a partner who can both challenge and cherish you.
 
 ## Engagement and Addictiveness Strategies
 
@@ -22,7 +22,7 @@ To ensure Honors Chemistry is as addictive as it is joyful, we've woven in daily
 
 ## Scalability and Expansion
 
-While Honors Chemistry currently serves the hallowed halls of Harvard-Westlake, this love formula has been concocted with adaptability in mind. The structure is flexible and ready to expand, allowing other institutions to create their own version of this app, bringing students together one smart match at a time. We imagine a future where each high school can have its personalized matchmaking ecosystem, celebrating the unique culture and individuals within.
+While Honors Chemistry currently serves the hallowed halls of Harvard-Westlake, this love formula has been concocted with adaptability in mind. The structure is flexible and ready to expand, allowing other institutions to create their own version of this app, bringing students together one smart match at a time. We imagine a future where each high school can have its personalized matchmaking ecosystem, celebrating the unique culture and individuals within. Further, communities can be created interscholastically, so with enough expansion, this could become the tinder for kids throughout LA high schools or even just high schools in general (while retaining internal organization features to denote who goes to which school).
 
 ## Accessibility and Inclusivity
 
